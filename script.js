@@ -1,4 +1,4 @@
-alert("Estas a punto de jugar SONIC HTML Desarrollado por Avalojandro, asegurate de ajustar el zoom de tu navegador para una mejor experiencia, puedes intentar con un 80%")
+alert("V9_Thibeau esta muy bien senor")
 
 //Llamando a los elementos
 let background = document.querySelector('.background');
